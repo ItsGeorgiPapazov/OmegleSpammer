@@ -7,7 +7,7 @@ OmegleSpammer is a fast and efficient Python script that enables you to send a l
 It is recommended to use good premium proxies for the best performance.
 If you use proxies with username and password, make sure that they are in the format of username:password@ip:port
 
-![Preview](https://i.imgur.com/Hbtbo0u.mp4)
+![Preview](https://github.com/ItsGeorgiPapazov/OmegleSpammer/blob/main/Preview.gif)
 
 ## :rocket: Features 
 
